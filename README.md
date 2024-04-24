@@ -54,7 +54,7 @@ print(num)
 ## Output:
 ![Screenshot 2024-04-24 104032](https://github.com/harshiniyu/Sorting-Algorithms/assets/144979786/2c7556ae-4565-4ac1-bd21-90642c176c97)
 
-![Screenshot 2024-04-24 104446](https://github.com/harshiniyu/Sorting-Algorithms/assets/144979786/fd199bf7-4fe8-473a-9cc4-216eefa4dfa9)
+![image](https://github.com/harshiniyu/Sorting-Algorithms/assets/144979786/7953232a-4fba-423c-be87-4951a04cce4b)
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
